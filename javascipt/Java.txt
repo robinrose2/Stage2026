@@ -1,0 +1,36 @@
+ Settings | Jdk: Jdkhome
+const TotalLivres = 500
+consol.log(TotalLivres)
+// let totalLivres = 500
+// totalLivres += 50
+// totalLivres -= 10
+// totalLivres += 5
+
+// console.log(totalLivres)
+
+// let affichagetotalLivres = "Notre biblioteque possede "
+// affichagetotalLivres += totalLivres
+// affichagetotalLivres += " livres"
+
+// console.log (affichagetotalLivres)
+
+// const ticket ={
+//     nomFilm: "terminator",
+//     prix : "3.50",
+//     numeroDeSalle:"12" 
+// }
+
+// let nom = "Robin"
+
+// let textaffiche = "Bonjour " + nom + " votre film " + ticket.nomFilm + " et en salle " + ticket.numeroDeSalle
+
+// console.log(textaffiche)
+
+// let playliste =["Dj","Beggin","l'affamé"]
+
+// const totalmorceaux=playliste.length
+
+// playliste.push("Bohemian Rhapsody","buisnesman")
+// playliste.pop()
+
+// console.log (playliste)
